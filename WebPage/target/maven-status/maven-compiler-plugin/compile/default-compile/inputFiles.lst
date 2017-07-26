@@ -1,0 +1,14 @@
+C:\workspace\WebPage\src\main\java\com\interctec\java\webpage\constants\Constants.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\UserServicesWs_Service.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\RespuestaDTO.java
+C:\workspace\WebPage\src\main\java\com\interctec\java\webpage\dao\UserDAO.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\AgregarUserNameRestrictedResponse.java
+C:\workspace\WebPage\src\main\java\com\interctec\java\webpage\controller\UserController.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\UserServicesWs.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\ObjectFactory.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\AgregarUserNameRestricted.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\ValidarUserName.java
+C:\workspace\WebPage\src\main\java\com\interctec\java\webpage\dto\RespuestaDTO.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\ValidarUserNameResponse.java
+C:\workspace\WebPage\target\generated-sources\jaxws-wsimport\com\interctec\java\webpage\ws\services\package-info.java
+C:\workspace\WebPage\src\main\java\com\interctec\java\webpage\daoimpl\UserDAOImpl.java

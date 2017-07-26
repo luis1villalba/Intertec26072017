@@ -1,0 +1,8 @@
+com\interctec\java\webservices\data\ControlDataArchivo.class
+com\interctec\java\webservices\dto\RespuestaDTO.class
+com\interctec\java\webservices\dao\UserDAO.class
+com\interctec\java\webservices\data\UserRestricted.class
+com\interctec\java\webservices\services\UserServicesWs.class
+com\interctec\java\webservices\model\UsersModel.class
+com\interctec\java\webservices\daoimpl\UserDAOImpl.class
+com\interctec\java\webservices\constants\Constants.class

@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/07/2017, 08:20:18 PM
+    Author     : luis.perez
+*/
+.button {
+    border: none;
+    background: #3a7999;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+}
+
+.button_negro {
+    padding: 5px;
+    background: rgb(255,232,140); /* antes rgb(255,204,0);*/
+    border-radius: 10px;    
+    min-width: 130px; 
+    max-width: 250px;
+    font-family: Open Sans, sans-serif;
+    border: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.panelGrid { 
+    width: 60%; 
+    margin: auto; 
+    padding-top:  100px;
+}
+
+.panelGroup { 
+    width: 50%; 
+    margin: auto; 
+    font-weight: bold; 
+    font-size: 16px;
+}
+
+a:link {
+    text-decoration:none;
+}
+
+.ui-datatable thead th, .ui-datatable tbody td, .ui-datatable tfoot td, .ui-datatable tfoot th {
+    font-size: 14px;
+}    
